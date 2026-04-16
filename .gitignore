@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Testing
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDE / tooling
+.claude/
+
+# Data files (licensing unclear / do not redistribute)
+data/
+
+# Pipeline outputs
+artifacts/
